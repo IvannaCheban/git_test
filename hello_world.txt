@@ -1,1 +1,2 @@
-This is some changes
+This is some changes.
+This is some additional changes to test commiting messages.
